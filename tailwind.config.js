@@ -11,6 +11,13 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundColor: {
+        blueSections: "#17242D"
+      },
+      backgroundImage: {
+        mainMobile: "url(/img/bg-main-mobile.png)",
+        waveProjectMobile: "url(/img/waves/wave-projects-mobile.png)"
+      }
     },
   },
   plugins: [],
